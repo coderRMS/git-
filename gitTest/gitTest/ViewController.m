@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     //初始化
     //第一次提交
+    //第二次提交
 }
 
 - (void)didReceiveMemoryWarning {
